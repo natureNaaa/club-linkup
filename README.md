@@ -3,7 +3,8 @@
 ## 1. 项目概览
 
 - **项目名称**：LinkUp (社团招新智能匹配平台)
-- **体验地址**：https://club-linkup.vercel.app/
+- **体验地址（因为使用海外的免费部署网站，打开需开启网络代理）**：https://club-linkup.vercel.app/
+              https://club-linkup.naturenaaa.workers.dev/
 - **项目定位**：一款面向高校新生的轻量级、智能化社团匹配与报名系统。
 
 ## 2. 核心痛点与解决方案
