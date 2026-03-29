@@ -176,7 +176,7 @@ const Header = ({ currentView, setView }) => {
           <span className="text-2xl font-black text-gray-900 tracking-tight">LinkUp</span>
         </div>
 
-        <nav className="hidden md:flex items-center space-x-10">
+        <nav className="hidden sm:flex items-center space-x-10">
           <button onClick={() => setView('home')} className={`text-sm font-bold tracking-wide transition-all ${currentView === 'home' ? 'text-blue-600' : 'text-gray-500 hover:text-gray-900'}`}>
             首页
           </button>
